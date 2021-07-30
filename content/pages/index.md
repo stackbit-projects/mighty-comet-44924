@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: San Francisco Cup 2021
-    subtitle: Optional hero section subtitle
+    subtitle: Join us in the first edition of the SF Cup
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
