@@ -7,9 +7,6 @@ sections:
     content: |
       International tournament organized by Silicon Valley FC
     actions:
-      - label: Try Free
-        url: /pricing
-        style: primary
       - label: Learn More
         url: /features
         style: secondary
