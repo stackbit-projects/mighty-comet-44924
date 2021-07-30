@@ -5,7 +5,7 @@ sections:
     title: San Francisco Cup 2021
     subtitle: Join us in the first edition of the SF Cup
     content: |
-      organized by Silicon Valley FC
+      International tournament organized by Silicon Valley FC
     actions:
       - label: Try Free
         url: /pricing
