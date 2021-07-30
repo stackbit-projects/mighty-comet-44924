@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: We wil
+    title: San Francisco Cup 2021
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
